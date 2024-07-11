@@ -1,6 +1,5 @@
 # Portfolio-Managment
 
-# Portfolio Optimization Using Python
 
 ## Introduction
 
